@@ -6,7 +6,7 @@
 		<h4>Всю документацию о проекте вы можете найти <a href = "">здесь</a></h4>
 		<hr>
 		<h3>Решение задач</h3>
-		<h4>Решить свою задачу можно в <a href="">Google Colab</a> </h4>
+		<h4>Решить свою задачу можно в <a href="https://colab.research.google.com/drive/1vzDzAOoFLmpyR06w5kE-kOh6CNK14Sa1?usp=sharing">Google Colab</a> </h4>
 		<hr>
 		<h3>Примеры решения задач</h3>
 		<hr>
