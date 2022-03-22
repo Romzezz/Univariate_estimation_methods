@@ -25,7 +25,7 @@
 		     height="150px">
 		<h5>Вывод таблицы: </h5> 
 		<img src="Images/m3.2.png"
-		     height="100px">
+		     height="60px">
 		<hr>
 		<h3>Участники проекта</h3>
 		<h4>
