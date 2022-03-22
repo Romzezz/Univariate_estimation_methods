@@ -9,6 +9,23 @@
 		<h4>Решить свою задачу можно в <a href="https://colab.research.google.com/drive/1vzDzAOoFLmpyR06w5kE-kOh6CNK14Sa1?usp=sharing">Google Colab</a> </h4>
 		<hr>
 		<h3>Примеры решения задач</h3>
+		<h5>Ввод параметров функции: </h5> 
+		<img src="Images/m1.1.png"
+		     height="210px">
+		<h5>Вывод: </h5> 
+		<img src="Images/m1.2.png"
+		     height="322px">
+		<h5>Ввод параметров функции и вывод : </h5> 
+		<img src="Images/m2.1.png"
+		     height="210px">
+		<hr>
+		<h4>Функция поиска локальных экстремумов функции двух переменных с ограничениями (метод Лагранжа): </h4>
+		<h5>Ввод параметров функции: </h5> 
+		<img src="Images/m3.1.png"
+		     height="150px">
+		<h5>Вывод таблицы: </h5> 
+		<img src="Images/m3.2.png"
+		     height="100px">
 		<hr>
 		<h3>Участники проекта</h3>
 		<h4>
