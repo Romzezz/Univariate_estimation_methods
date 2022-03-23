@@ -3,7 +3,7 @@
 		<h2>Оптимизационные задачи в машинном обучении. <br> Проект № 2: Методы одномерной оптимизации.</h2>
 		<hr>
 		<h3>Документация</h3>
-		<h4>Всю документацию о проекте вы можете найти <a href = "">здесь</a></h4>
+		<h4>Всю документацию о проекте вы можете найти <a href = "documentation2.pdf">здесь</a></h4>
 		<hr>
 		<h3>Jira</h3>
 		<h4>Наша <a href = "https://opml.atlassian.net/jira/software/projects/P2/boards/1">Аgile-доска</a> в <a href = "https://www.atlassian.com/ru/software/jira">Jira</a></h4>
