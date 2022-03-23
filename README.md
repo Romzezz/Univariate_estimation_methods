@@ -5,6 +5,9 @@
 		<h3>Документация</h3>
 		<h4>Всю документацию о проекте вы можете найти <a href = "">здесь</a></h4>
 		<hr>
+		<h3>Jira</h3>
+		<h4>Наша <a href = "https://opml.atlassian.net/jira/software/projects/P2/boards/1">Аgile-доска</a> в <a href = "https://www.atlassian.com/ru/software/jira">Jira</a></h4>
+		<hr>
 		<h3>Решение задач</h3>
 		<h4>Решить свою задачу можно в <a href="https://colab.research.google.com/drive/1vzDzAOoFLmpyR06w5kE-kOh6CNK14Sa1?usp=sharing">Google Colab</a> </h4>
 		<hr>
@@ -12,7 +15,7 @@
 		<h5>Ввод параметров функции: </h5> 
 		<img src="Images/m1.1.png"
 		     height="210px">
-		<h5>Вывод: </h5> 
+		<h5>Вывод: </h5>                                                
 		<img src="Images/m1.2.png"
 		     height="322px">
 		<h5>Ввод параметров функции и вывод : </h5> 
